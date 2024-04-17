@@ -1,0 +1,180 @@
+E:\3comm\Documents\Предметы\рпм\лабы\13-14\образец\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.exe
+E:\3comm\Documents\Предметы\рпм\лабы\13-14\образец\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.deps.json
+E:\3comm\Documents\Предметы\рпм\лабы\13-14\образец\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.runtimeconfig.json
+E:\3comm\Documents\Предметы\рпм\лабы\13-14\образец\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.dll
+E:\3comm\Documents\Предметы\рпм\лабы\13-14\образец\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.pdb
+E:\3comm\Documents\Предметы\рпм\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\3comm\Documents\Предметы\рпм\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowEmployee.g.cs
+E:\3comm\Documents\Предметы\рпм\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowRole.g.cs
+E:\3comm\Documents\Предметы\рпм\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\App.g.cs
+E:\3comm\Documents\Предметы\рпм\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.cache
+E:\3comm\Documents\Предметы\рпм\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.lref
+E:\3comm\Documents\Предметы\рпм\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\MainWindow.baml
+E:\3comm\Documents\Предметы\рпм\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowEmployee.baml
+E:\3comm\Documents\Предметы\рпм\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowRole.baml
+E:\3comm\Documents\Предметы\рпм\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.g.resources
+E:\3comm\Documents\Предметы\рпм\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\3comm\Documents\Предметы\рпм\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfoInputs.cache
+E:\3comm\Documents\Предметы\рпм\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfo.cs
+E:\3comm\Documents\Предметы\рпм\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+E:\3comm\Documents\Предметы\рпм\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.dll
+E:\3comm\Documents\Предметы\рпм\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\refint\WpfApp1.dll
+E:\3comm\Documents\Предметы\рпм\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.pdb
+E:\3comm\Documents\Предметы\рпм\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.genruntimeconfig.cache
+E:\3comm\Documents\Предметы\рпм\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\ref\WpfApp1.dll
+E:\3comm\Documents\Предметы\рпм\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowNewRole.g.cs
+E:\3comm\Documents\Предметы\рпм\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowNewRole.baml
+E:\3comm\Documents\Предметы\рпм\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowNewEmployee.g.cs
+E:\3comm\Documents\Предметы\рпм\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowNewEmployee.baml
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\13-14\образец\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.exe
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\13-14\образец\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.deps.json
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\13-14\образец\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.runtimeconfig.json
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\13-14\образец\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.dll
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\13-14\образец\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.pdb
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowEmployee.g.cs
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowNewEmployee.g.cs
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowNewRole.g.cs
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowRole.g.cs
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\App.g.cs
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.cache
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.lref
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\MainWindow.baml
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowEmployee.baml
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowNewEmployee.baml
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowNewRole.baml
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowRole.baml
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.g.resources
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfoInputs.cache
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfo.cs
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.dll
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\refint\WpfApp1.dll
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.pdb
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.genruntimeconfig.cache
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\13-14\образец\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\ref\WpfApp1.dll
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\вторая версия проекта\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.exe
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\вторая версия проекта\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.deps.json
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\вторая версия проекта\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.runtimeconfig.json
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\вторая версия проекта\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.dll
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\вторая версия проекта\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.pdb
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\вторая версия проекта\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\вторая версия проекта\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowEmployee.g.cs
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\вторая версия проекта\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowNewEmployee.g.cs
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\вторая версия проекта\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowNewRole.g.cs
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\вторая версия проекта\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowRole.g.cs
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\вторая версия проекта\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\App.g.cs
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\вторая версия проекта\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.cache
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\вторая версия проекта\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.lref
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\вторая версия проекта\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\MainWindow.baml
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\вторая версия проекта\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowEmployee.baml
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\вторая версия проекта\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowNewEmployee.baml
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\вторая версия проекта\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowNewRole.baml
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\вторая версия проекта\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowRole.baml
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\вторая версия проекта\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.g.resources
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\вторая версия проекта\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\вторая версия проекта\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfoInputs.cache
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\вторая версия проекта\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfo.cs
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\вторая версия проекта\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\вторая версия проекта\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.dll
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\вторая версия проекта\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\refint\WpfApp1.dll
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\вторая версия проекта\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.pdb
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\вторая версия проекта\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.genruntimeconfig.cache
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\вторая версия проекта\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\ref\WpfApp1.dll
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.exe
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.deps.json
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.runtimeconfig.json
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.dll
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.pdb
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\DictionaryApp.baml
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowEmployee.g.cs
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowNewEmployee.g.cs
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowNewRole.g.cs
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowRole.g.cs
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\App.g.cs
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.cache
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.lref
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\App.baml
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\MainWindow.baml
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowEmployee.baml
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowNewEmployee.baml
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowNewRole.baml
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowRole.baml
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.g.resources
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfoInputs.cache
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfo.cs
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.dll
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\refint\WpfApp1.dll
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.pdb
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.genruntimeconfig.cache
+E:\3comm\Documents\Предметы\Курс 3.2\РПМ\лабы\15-16\15\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\ref\WpfApp1.dll
+D:\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.exe
+D:\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.deps.json
+D:\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.runtimeconfig.json
+D:\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.dll
+D:\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.pdb
+D:\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\DictionaryApp.baml
+D:\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\App.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.cache
+D:\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.lref
+D:\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\App.baml
+D:\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\MainWindow.baml
+D:\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.g.resources
+D:\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfo.cs
+D:\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.dll
+D:\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\refint\WpfApp1.dll
+D:\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.pdb
+D:\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.genruntimeconfig.cache
+D:\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\ref\WpfApp1.dll
+D:\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowNewProducts.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowNewUser.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowProducts.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowUser.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowNewProducts.baml
+D:\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowNewUser.baml
+D:\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowProducts.baml
+D:\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowUser.baml
+D:\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.csproj.Up2Date
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.exe
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.deps.json
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.dll
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.pdb
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\DictionaryApp.baml
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowNewProducts.g.cs
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowNewUser.g.cs
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowProducts.g.cs
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowUser.g.cs
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\App.baml
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowNewProducts.baml
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowNewUser.baml
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowProducts.baml
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\View\WindowUser.baml
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.g.resources
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.csproj.CopyComplete
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.dll
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\refint\WpfApp1.dll
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.pdb
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\cruto\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\net7.0-windows\ref\WpfApp1.dll
